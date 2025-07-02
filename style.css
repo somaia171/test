@@ -13,13 +13,15 @@
     margin: 0 auto;
     margin-top: 10%;
     background-color: white;
+    transform: scale(1.0);
+    transition: 0.3s ease-in-out;
 }
 
 .gitgithub:hover {
     background-color: rgb(41, 41, 41);
     color: white;
     transform: scale(1.1);
-    transition: 0.3s ease-in-out;
+    
 }
 
 .gitgithub h1 {
