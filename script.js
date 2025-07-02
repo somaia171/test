@@ -1,1 +1,1 @@
-alert('Something..')
+alert('Hi!\nWhat a nice hover effect!')
