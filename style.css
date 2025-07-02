@@ -1,6 +1,11 @@
+body {
+    background-color: rgb(168, 168, 168);
+}
+
 * {
     margin-top: 0;
     margin-left: 0;
+    
 }
 
 .gitgithub {
